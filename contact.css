@@ -1,0 +1,36 @@
+/* Style das letras geral e cor de fundo */
+body {
+    color: blueviolet;
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    min-height: 100vg;
+    background-color: black;
+}
+/* Style da box do Contato */
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px 45px;
+    background: gray;
+    width: 500px;
+}
+/* Style do titulo Contato  */
+section h2 {
+    color: blueviolet;
+    font-size: 2rem;
+    margin: 2rem;
+}
+/* Style das box de input */
+section form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-family: fantasy;
+}
+/* Style dos links */
+a {
+    text-decoration: none;
+}

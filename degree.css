@@ -1,0 +1,24 @@
+/* Style geral e das letras de texto */
+body {   
+    min-height: 100vg;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    color: white;
+}
+/* Style do título Formação Acadêmica */
+h3 {    
+    color: blueviolet;
+    font-size: 2rem;
+    margin: 2rem; 
+}
+/* Style dos títulos Escolaridade, Idiomas e Info adicionais */
+h4 {
+    color: blueviolet;
+    font-size: 1rem;
+    margin: 1rem; 
+}
+/* Style dos links */
+a {
+    text-decoration: none;
+}

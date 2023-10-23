@@ -1,0 +1,14 @@
+/* Style da letra de texto e fundo */
+body {
+    background: black;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Style do título Projetos */
+h1 {
+color: blueviolet;
+}
+/* Style dos links */
+a {
+    text-decoration: none;
+}

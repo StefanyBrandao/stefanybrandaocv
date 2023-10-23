@@ -1,0 +1,36 @@
+/* Style do fundo e letras geral */
+body {
+    color:white;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Style das navegações  */
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: georgian;
+    align-items: center;
+    padding: 50px;
+}
+/* Style das letras de navegações  */
+a {
+    color: blueviolet;
+    text-decoration: none;
+}
+/* Style da minha foto e borda  */
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid blueviolet;   
+    
+}
+/* Style do titulo e nome */
+h1 {
+    text-align: left;
+    color: blueviolet
+}
+/* Style do texto de boas vindas  */
+section {
+   text-align: justify ;
+}
